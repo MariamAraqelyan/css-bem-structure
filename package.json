@@ -1,0 +1,38 @@
+{
+	"name": "css-bem-structure",
+	"title": "Hint.css",
+	"description": "A tooltip library in CSS for your lovely websites.",
+	"version": "2.6.0",
+	"style": "hint.css",
+	"main": "hint.css",
+	"homepage": "",
+	"author": {
+		"name": "Mariam Araqelyan",
+		"email": "mariam-araqelyan91@mail.ru",
+		"url": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/MariamAraqelyan/css-bem-structure"
+	},
+	"bugs": {
+		"url": "https://github.com/MariamAraqelyan/css-bem-structure"
+	},
+	"license": "MIT",
+	"keywords": [
+		"tooltip",
+		"ui",
+		"sass",
+		"css",
+		"help",
+		"hint"
+	],
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-concat": "~0.3.0",
+		"grunt-contrib-cssmin": "~0.12.3",
+		"grunt-contrib-watch": "~0.5.3",
+		"grunt-sass": "^3.0.2",
+		"node-sass": "^4.10.0"
+	}
+}

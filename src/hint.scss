@@ -1,0 +1,23 @@
+/*! Bem css Structor (base version) - 2021-04-03
+* Copyright (c) 2021 Mariam Araqelyan */
+
+/*-------------------------------------*\
+	HINT.css - A CSS tooltip library
+\*-------------------------------------*/
+/**
+ * HINT.css is a tooltip library made in pure CSS.
+ *
+ * Source: https://github.com/MariamAraqelyan/css-bem-structure
+ *
+ */
+
+@import "hint-variables";
+@import "hint-mixins";
+@import "hint-core";
+@import "hint-position";
+@import "hint-sizes";
+@import "hint-theme";
+@import "hint-color-types";
+@import "hint-always";
+@import "hint-rounded";
+@import "hint-effects";

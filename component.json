@@ -1,0 +1,13 @@
+{
+  "name": "css-bem-structure",
+  "repo": "css-bem-structure/hint.css",
+  "description": "",
+  "version": "2.6.0",
+  "keywords": ["tooltip", "css"],
+  "dependencies": {},
+  "development": {},
+  "styles": [
+    "hint.min.css"
+  ]
+}
+

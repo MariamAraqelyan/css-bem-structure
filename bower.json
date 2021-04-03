@@ -1,0 +1,15 @@
+{
+	"name": "css-bem-structure",
+	"main": "hint.min.css",
+	"author": "Kushagra Gour",
+	"ignore": [
+		"CONTRIBUTING.md",
+		"Gruntfile.js"
+	],
+	"keywords": [
+		"hint",
+		"tooltip",
+		"tooltips",
+		"ui"
+	]
+}
